@@ -7,7 +7,6 @@
     <groupId>com.sqage</groupId>
     <artifactId>madcat.test</artifactId>
     <version>1.0.0</version>
-    <packaging>war</packaging>
 
     <name>madcat.test Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
